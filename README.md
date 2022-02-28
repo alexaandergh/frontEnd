@@ -9,7 +9,7 @@ Proyecto abogabot realizado para launchx
 'Toma de requerimientos'
 
 
-'Buyer persona'
+'Buyer persona'/n
 https://github.com/alexaandergh/frontEnd/blob/main/buyer%20persona.png
 
 'Publico objetivo'
