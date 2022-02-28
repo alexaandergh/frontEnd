@@ -10,7 +10,7 @@ Proyecto abogabot realizado para launchx
 
 
 'Buyer persona'
-
+https://github.com/alexaandergh/frontEnd/blob/main/buyer%20persona.png
 
 'Publico objetivo'
 
