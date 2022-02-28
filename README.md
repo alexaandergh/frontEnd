@@ -12,7 +12,7 @@ Proyecto abogabot realizado para launchx
 ['Buyer persona'](https://github.com/alexaandergh/frontEnd/blob/main/buyer%20persona.png)
 
 
-'Publico objetivo'
+['Publico objetivo'](https://miro.com/app/board/uXjVOJFv6AY=/)
 
 
 'Wireframe'
