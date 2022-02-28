@@ -15,7 +15,7 @@ Proyecto abogabot realizado para launchx
 ['Publico objetivo'](https://miro.com/app/board/uXjVOJFv6AY=/)
 
 
-'Wireframe'
+['Wireframe'](https://miro.com/app/board/uXjVOJF9oI0=/)
 
 
-['Interfas de usuario UI'](https://miro.com/app/board/uXjVOJF9oI0=/)
+['Interfas de usuario UI'](url)
