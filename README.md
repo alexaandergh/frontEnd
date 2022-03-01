@@ -18,4 +18,4 @@ Proyecto abogabot realizado para launchx
 ['Wireframe'](https://miro.com/app/board/uXjVOJF9oI0=/)
 
 
-['Interfas de usuario UI'](https://www.figma.com/team_invite/redeem/bMzigL4gTnL2S7AtxTFqIN)
+['Interfas de usuario UI'](https://www.figma.com/file/Ae7bM5EhHLCAExdA1frH33/Untitled?node-id=2%3A6)
