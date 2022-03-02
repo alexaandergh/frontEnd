@@ -6,7 +6,7 @@ Proyecto abogabot realizado para launchx
 
 # Links
 
-'Toma de requerimientos'
+['Toma de requerimientos'](https://github.com/alexaandergh/frontEnd/blob/main/Abogabot.doc)
 
 
 ['Buyer persona'](https://github.com/alexaandergh/frontEnd/blob/main/buyer%20persona.png)
